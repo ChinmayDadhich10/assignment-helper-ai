@@ -112,7 +112,7 @@ GROQ_API_KEY=your_api_key_here
 
 ## 🌐 Live Demo
 
-(Will be added after deployment)
+https://assignment-h-ai.streamlit.app/
 
 ---
 
